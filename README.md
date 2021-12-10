@@ -1,3 +1,17 @@
+# TRABAJADNO CON COMPONENTES REACT
+## Desafio Frontend del curso FullStack de Digital House
+
+<a href="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/DESAFIO/M09C02%20-%20Ejercitaci%C3%B3n%20-%20Trabajando%20con%20componentes.pdf" >IR AL PDF<a>
+
+## Preview del desafio finalizado
+
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe1.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe2.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe3.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe4.PNG">
+
+
+---------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
