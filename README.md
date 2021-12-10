@@ -6,9 +6,9 @@
 ## Preview del desafio finalizado
 
 <img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe1.PNG">
-<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe2.PNG">
-<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe3.PNG">
-<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/previwe4.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/preview2.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/preview3.PNG">
+<img src="https://github.com/XmauricioX/TRABAJANDO_CON_COMPONENTES_REACT/blob/main/PREVIEW/preview4.PNG">
 
 
 ---------------------------------------
